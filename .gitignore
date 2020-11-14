@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Jetbrains
+./.idea/
+
 .DS_Store
 
 # Distribution / packaging
@@ -109,3 +112,9 @@ env*
 
 # Original Source (Dev)
 ta/_wrapper.py
+.idea/.gitignore
+.idea/JPAMappingSettings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/ta.iml
+.idea/vcs.xml
